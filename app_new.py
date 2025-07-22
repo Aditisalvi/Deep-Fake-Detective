@@ -539,6 +539,7 @@ def main():
     st.markdown("""
         <div style="text-align: center; padding: 2rem; color: #666;">
             <p>🔬 Built with 💜 by Aditi Salvi</p>
+            <p> My Notebook - https://www.kaggle.com/code/aditisalvi013/deep-fake-project</p>
         </div>
     """, unsafe_allow_html=True)
 
